@@ -5,12 +5,12 @@
    =========================== */
 :root {
     /* Brand Colors */
-    --primary-color: #1c6399;
-    --secondary-color: #2b7bb9;
+    --primary-color: #29BF12;
+    --secondary-color: #70AE6E;
     --accent-color: #50A5E6;
     --light-color: #F5F7F9;
-    --dark-color: #1c6399;
-    --success-color: #3dd598;
+    --dark-color: #006992;
+    --success-color: #020302;
     --warning-color: #FF0000;
     --pink-accent: #ef91c6;
     --pink-highlight: #F8C2E1;
